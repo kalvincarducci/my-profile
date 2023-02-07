@@ -1,0 +1,13 @@
+h2,h3{
+  color: #A89ECF;
+  font-size:30px;
+  font-family: unbounded;
+  text-align: center;
+
+}
+
+.text, h3{
+  border-radius: 20px;
+  background-color: #000000bf;
+  margin: 20px;
+}

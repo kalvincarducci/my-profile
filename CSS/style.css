@@ -1,0 +1,36 @@
+@import url("components/cards.css");
+@import url("components/image.css");
+@import url("components/paragraphe.css");
+@import url("components/text.css");
+@import url("components/text2.css");
+
+.container{
+  padding: 25px;
+}
+body {
+/*  background: url(images/ar.jpeg)*/
+  background: url(../images/ar.jpeg);
+  background-size: 50%;
+}
+
+p{
+  color: white;
+  font-size: 35px;
+  font-family: 'Roboto', sans-serif;
+  text-align: justify;
+}
+
+li{
+  color: rgb(255, 255, 255);  /* white */
+  font-family: unbounded;
+  font-size: 25px;
+  background-color: #1c1f1acf;
+
+}
+
+a{
+  color: rgb(255, 255, 255);  /* white */
+  font-family: unbounded;
+  font-size: 25px;
+  background-color: #1c1f1acf;
+}
